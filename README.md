@@ -10,7 +10,7 @@ $ ls
 $ php DesimalToBinner.php
 ```
 
-![Alt text](ss.jpg "Optional Title" | width=100)
+<img src="ss.jpg" alt="" data-canonical-src="ss.jpg" width="400" height="300" />
 
 
 ## Donation
