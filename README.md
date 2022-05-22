@@ -10,7 +10,7 @@ $ ls
 $ php DesimalToBinner.php
 ```
 
-![Alt text](ss.png "Optional Title")
+![Alt text](ss.jpg "Optional Title")
 
 
 ## Donation
