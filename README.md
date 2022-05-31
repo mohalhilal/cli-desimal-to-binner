@@ -12,6 +12,3 @@ $ php DesimalToBinner.php
 
 <img src="ss.jpg" alt="" data-canonical-src="ss.jpg" width="400" height="300" />
 
-
-## Donation
-- https://saweria.co/mohalhilal
